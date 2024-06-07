@@ -5,4 +5,4 @@
 - Javascript
 - react js
 
-![ss](./ss.png)
+![ss](./Screenshot%20(10).png)
